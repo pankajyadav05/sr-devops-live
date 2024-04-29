@@ -46,7 +46,7 @@ If you have experience with Kubernetes, you can optionally deploy the containeri
 
 Once you've completed the assignment, please submit your work by providing:
 
-1. Provide the GitHub repository URL as a PRIVATE Git repository (also provide access) to roshan@gitforcetalent.com and cc prithvi@gitforcetalent.com, pankaj@gitforcetalent.com
+1. Provide the GitHub repository URL as a PRIVATE Git repository (also provide access) to pankaj@gitforcetalent and cc prithvi@gitforcetalent.com, roshan@gitforcetalent.com, shibasweta@gitforcetalent.com.
 2. Instructions on how to access and test the deployed application.
 3. Provide any additional notes or considerations regarding the implementation.
 

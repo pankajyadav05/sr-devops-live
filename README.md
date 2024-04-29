@@ -1,5 +1,3 @@
----
-
 <div align="center">
 	<a target="_blank" href="https://gitforcetalent.com">
         <picture>
@@ -11,6 +9,8 @@
     <br />
     <br />
 </div>
+
+---
 
 ---
 

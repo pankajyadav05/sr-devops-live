@@ -10,6 +10,10 @@
     <br />
 </div>
 
+---
+
+---
+
 # Assignment: Deploy a Web Application using CI/CD and Docker
 
 In this assignment, using simple web application with a backend (e.g., Python) and a frontend (e.g., React). Your task is to set up a CI/CD pipeline and deploy the application using Docker containers.

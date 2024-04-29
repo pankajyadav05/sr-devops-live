@@ -1,7 +1,9 @@
-<div align="center" style="background-color: #0d1117">
+<div align="center" style="backgroundColor: #0d1117">
 	<a href="https://gitforcetalent.com">
 		<img src="https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo-light.png&w=1200&q=75" alt="Click to see the source">
 	</a>
+    <br />
+    <br />
 </div>
 
 # Assignment: Deploy a Web Application using CI/CD and Docker

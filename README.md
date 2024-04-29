@@ -1,8 +1,10 @@
-**Assignment: Deploy a Web Application using CI/CD and Docker**
+![image](https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo.png&w=1200&q=75)
+
+# Assignment: Deploy a Web Application using CI/CD and Docker
 
 In this assignment, using simple web application with a backend (e.g., Python) and a frontend (e.g., React). Your task is to set up a CI/CD pipeline and deploy the application using Docker containers.
 
-**Requirements:**
+## Requirements:
 
 1. **CI/CD Pipeline**: Set up a CI/CD pipeline using a tool of your choice (e.g., GitHub Actions, GitLab CI/CD, Jenkins, CircleCI, etc.). The pipeline should automatically build, test (Front-end) and deploy the application when changes are pushed to main branch of the repository.
 
@@ -26,11 +28,11 @@ In this assignment, using simple web application with a backend (e.g., Python) a
 
 5. **Documentation**: Provide clear documentation explaining the steps you took to set up the CI/CD pipeline, build and push the Docker images, provision the infrastructure, and deploy the application.
 
-**Bonus: Kubernetes Deployment**
+## Bonus: Kubernetes Deployment
 
 If you have experience with Kubernetes, you can optionally deploy the containerized application to a Kubernetes cluster. This could involve using an IAC tool to provision the Kubernetes cluster and then deploying the application using Kubernetes manifests or a tool like Helm.
 
-**Submission:**
+## Submission:
 
 Once you've completed the assignment, please submit your work by providing:
 
@@ -38,7 +40,7 @@ Once you've completed the assignment, please submit your work by providing:
 2. Instructions on how to access and test the deployed application.
 3. Provide any additional notes or considerations regarding the implementation.
 
-**Evaluation Criteria:**
+## Evaluation Criteria:
 
 Your submission will be evaluated based on the following criteria:
 

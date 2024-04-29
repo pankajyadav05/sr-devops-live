@@ -1,11 +1,12 @@
-<div style="background-color: #0d1117; padding: 20px;">
-<div align="center" style="background-color: #0d1117;">
+<div align="center">
 	<a href="https://gitforcetalent.com">
-		<img src="https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo-light.png&w=1200&q=75" alt="Click to see the source">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo-light.png">
+            <source media="(prefers-color-scheme: light)" srcset="https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo.png">
+            <img alt="https://gitforcetalent.com" src="https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo.png">
+        </picture>
 	</a>
     <br />
-    <br />
-</div>
 </div>
 
 # Assignment: Deploy a Web Application using CI/CD and Docker

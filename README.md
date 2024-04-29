@@ -1,4 +1,10 @@
-![image](https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo.png&w=1200&q=75)
+![image](https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo-light.png&w=1200&q=75)
+
+<div align="center" style="background-color: #0d1117">
+	<a href="https://gitforcetalent.com">
+		<img src="https://gitforcetalent.com/_next/image?url=%2Fimages%2Flogo-light.png&w=1200&q=75" width="800" height="400" alt="Click to see the source">
+	</a>
+</div>
 
 # Assignment: Deploy a Web Application using CI/CD and Docker
 

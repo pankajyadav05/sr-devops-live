@@ -6,17 +6,17 @@ In this assignment, using simple web application with a backend (e.g., Python) a
 
 1. **CI/CD Pipeline**: Set up a CI/CD pipeline using a tool of your choice (e.g., GitHub Actions, GitLab CI/CD, Jenkins, CircleCI, etc.). The pipeline should automatically build, test (Front-end) and deploy the application when changes are pushed to main branch of the repository.
 
-### To run tests (FE)
+   #### To run tests (FE)
 
-```bash
-npm test
-```
+   ```bash
+   npm test
+   ```
 
-### To make build (FE)
+   #### To make build (FE)
 
-```bash
-npm build
-```
+   ```bash
+   npm build
+   ```
 
 2. **Docker Containerization**: Create Docker images for the backend and frontend components of the application. The images should be built and pushed to a container registry (e.g., Docker Hub, GitHub Container Registry, or a private registry) as part of the CI/CD pipeline.
 
@@ -48,4 +48,4 @@ Your submission will be evaluated based on the following criteria:
 - Clear and well-documented steps for setting up the CI/CD pipeline, building Docker images, provisioning infrastructure, and deploying the application.
 - (Bonus) Successful deployment of the containerized application to a Kubernetes cluster.
 
-## Check full details about Evaluation criteria here [marks.md](MARKS.md)
+### Check full details about Evaluation criteria here [marks.md](MARKS.md)

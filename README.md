@@ -14,7 +14,7 @@
 
 ---
 
-# Assignment: Deploy a Web Application using CI/CD and Kubernetes [ESTD. Time to finish task: 75 to 90 mins]
+# Assignment: Deploy a Web Application using CI/CD and Kubernetes
 
 In this assignment, using simple web application with a backend (e.g., Python) and a frontend (e.g., React). Your task is to set up a CI/CD pipeline and deploy the application using Kubernetes cluster.
 

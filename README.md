@@ -35,28 +35,3 @@ In this assignment, using simple web application with a backend (e.g., Python) a
    ```
 
 2. **Kubernetes Deployment**: Create Docker images for the backend and frontend components of the application. The images should be built and pushed to a container registry (e.g., Docker Hub, GitHub Container Registry, or a private registry) as part of the CI/CD pipeline. Deploy the containerized application to a Kubernetes cluster.
-
-3. **Infrastructure as Code (IAC)**: Use either Terraform or Ansible to provision the necessary infrastructure for deploying the Kubernetes cluster and the containerized application.
-
-4. **Logging and Monitoring**: Implement logging and monitoring for the deployed application using one of the following solutions: Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), or Prometheus.
-
-5. **Documentation**: Provide clear documentation explaining the steps you took to set up the CI/CD pipeline, build and push the Docker images, provision the infrastructure (including the Kubernetes cluster), deploy the application to Kubernetes, and implement logging and monitoring.
-
-## Submission:
-
-Once you've completed the assignment, please submit your work by providing:
-
-1. Provide the GitHub or GitLab repository URL as a PRIVATE Git repository (also provide access) to pankaj@gitforcetalent.com and cc prithvi@gitforcetalent.com, roshan@gitforcetalent.com, shibasweta@gitforcetalent.com.
-2. Instructions on how to access and test the deployed application.
-3. Provide any additional notes or considerations regarding the implementation.
-
-## Evaluation Criteria:
-
-Your submission will be evaluated based on the following criteria:
-
-- Successful implementation of the CI/CD pipeline and containerization.
-- Proper use of Infrastructure as Code (IAC) principles and tools.
-- Successful deployment of the containerized application to the provisioned infrastructure.
-- Clear and well-documented steps for setting up the CI/CD pipeline, building Docker images, provisioning infrastructure, and deploying the application.
-
-### Check full details about Evaluation criteria here [marks.md](MARKS.md)

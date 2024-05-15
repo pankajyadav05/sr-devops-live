@@ -14,6 +14,6 @@
 
 ---
 
-# Assignment: Deploy a Web Application using CI/CD and Kubernetes
+# Assignment: Deploy a Web Application using Kubernetes
 
 In this assignment, using simple web application with a backend (e.g., Python) and a frontend (e.g., React). Your task is to create Docker images for the backend and frontend components of the application. The images should be built and pushed to a container registry (e.g., Docker Hub, GitHub Container Registry, or a private registry). Deploy the containerized application to a Kubernetes cluster.
